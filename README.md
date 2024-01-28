@@ -1,8 +1,15 @@
 ### To run cargo asm commands with just.exe
 
+CMD: (on windows Git bash is the easiest to use ... )
+```
+just asm stack
+just asm heap
+```
+
 #### Deps: 
 > https://github.com/gnzlbg/cargo-asm
-> https://github.com/casey/just (on windows Git bash is the easiest to use ... )
+
+> https://github.com/casey/just 
 
 #### Also important to rename crate to "stack" to match justifle 
 ```
